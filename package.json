@@ -12,7 +12,7 @@
     "async": "^3.0.0",
     "cheerio": "^1.0.0-rc.3",
     "eventproxy": "^1.0.0",
-    "https-proxy-agent": "^2.2.1",
+    "https-proxy-agent": "^2.2.3",
     "node-fetch": "^2.6.0",
     "superagent": "^5.0.5",
     "superagent-charset": "^1.2.0"
